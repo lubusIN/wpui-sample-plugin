@@ -1,2 +1,2 @@
-# wpui-sample-plugin
-Sample WordPress plugin using wpui
+# WPUI Sample Plugin
+Sample WordPress plugin using wpui.

@@ -1,13 +1,11 @@
-import { render } from '@wordpress/element';
+import { createRoot, render } from '@wordpress/element';
+import './app.css';
 import App from './app';
 
-window.addEventListener(
-    'load',
-    function () {
-        render(
-            <App />,
-            document.querySelector('#my-plugin')
-        );
-    },
-    false
-);
+const root = document.getElementById('wpui-sample-plugin');
+
+if (createRoot) {
+    createRoot(root).render(<App />);
+} else {
+    render(<App />, root);
+}
