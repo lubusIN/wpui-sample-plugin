@@ -15,17 +15,12 @@ WPUI is a design pattern library built upon wordpress components Which gives you
 - Watch for chanegs in dev `npm run start`
 - Build production assets `npm run build`
 
-## Craftsmen
-- [Ajit Bohra](https://twitter.com/ajitbohra)
-- [Pravin Prajapati](https://twitter.com/buddhamaan)
-- [Punit Verma](https://github.com/punitverma123)
-- [Nikhil Sharma](https://github.com/NikhilSharma666)
-
 ## Meet Your Artisans
-[LUBUS](http://lubus.in) is a web design agency based in Mumbai, India.
 
-<a href="https://lubus.in/">
-<img src="https://user-images.githubusercontent.com/1039236/40877801-3fa8ccf6-66a4-11e8-8f42-19ed4e883ce9.png" />
+[LUBUS](http://lubus.in) is a web design agency based in Mumbai.
+
+<a href="https://cal.com/lubus">
+<img src="https://raw.githubusercontent.com/lubusIN/.github/refs/heads/main/profile/banner.png" />
 </a>
 
 ## License
